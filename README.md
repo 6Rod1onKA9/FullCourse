@@ -19,3 +19,7 @@ Link to the repository -> https://github.com/6Rod1onKA9/GPS_Workbench
 - **5) Kalman Filter Study:**
 
 Link to the repository -> https://github.com/6Rod1onKA9/KalmanStudy
+
+- **6) Exploring GIT**
+
+Link to the repository -> https://github.com/6Rod1onKA9/GitTask
