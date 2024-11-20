@@ -27,3 +27,7 @@ Link to the repository -> https://github.com/6Rod1onKA9/GitTask
 - **7) Studying Docker**
 
 Link to the repository -> https://github.com/6Rod1onKA9/DockerInitiateTask
+
+- **8) Development of an Application for LORAN Measurement Visualization**
+  
+Link to the repository -> https://github.com/6Rod1onKA9/LoranWorkBench
